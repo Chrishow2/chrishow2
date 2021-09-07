@@ -6,7 +6,7 @@ I'm Christian, PHP developer from <img src="https://image.flaticon.com/icons/svg
 <h3>Things I code with</h3>
 <p>
   <img alt="CakePHP" src="https://img.shields.io/badge/-CakePHP-c93a42?style=flat-square&logo=cakephp&logoColor=white" />
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-dd4814?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-555555?style=flat-square&logo=codeigniter" />
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
   
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-3FB27F?style=flat-square&logo=vue.js&logoColor=black" />
