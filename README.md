@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Chrishow2/chrishow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page!
+I'm Christian, PHP developer from <img src="https://image.flaticon.com/icons/svg/197/197508.svg" width="13"/> <b>Havana, Cuba</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Madrid, Spain</b>.
 
-Here are some ideas to get you started:
+<h3>Things I code with</h3>
+<p>
+  <img alt="CakePHP" src="https://img.shields.io/badge/-CakePHP-c93a42?style=flat-square&logo=cakephp&logoColor=white" />
+  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-dd4814?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-3FB27F?style=flat-square&logo=vue.js&logoColor=black" />
+  
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7E018?style=flat-square&logo=javascript&logoColor=black" />
+  
+  <!--<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />-->
+  
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4089AC?style=flat-square&logo=mysql&logoColor=white" />
+  
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  
+  <img alt="SublimeTextt" src="https://img.shields.io/badge/-SublimeText-555555?style=flat-square&logo=sublime-text" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
