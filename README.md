@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my page!
-I'm Christian, PHP developer from <img src="https://image.flaticon.com/icons/svg/197/197508.svg" width="13"/> <b>Havana, Cuba</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Madrid, Spain</b>.
+I'm Christian, PHP developer from <img src="https://flagicons.lipis.dev/flags/4x3/cu.svg" width="13"/> <b>Havana, Cuba</b>, currently living in <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="13"/> <b>Madrid, Spain</b>.
 
 <h3>Things I code with</h3>
 <p>
